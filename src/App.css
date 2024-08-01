@@ -1,0 +1,21 @@
+
+.logo{
+  height: 80px;
+  width: 100%;
+  padding: 2px;
+}
+.nav{
+  background-image: linear-gradient(to right, rgb(222, 217, 217), #0874B9) !important;
+  color: #0874B9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:  0 24px;
+}
+.para-text {
+  font-size: 24px; 
+  font-weight: bold; 
+  text-align: center;
+  margin-top: -240px; 
+}
+
