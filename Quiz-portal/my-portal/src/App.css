@@ -1,0 +1,21 @@
+h2{
+  margin-left: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+p{
+  margin-left: 10px;
+  text-decoration: underline;
+}
+.container{
+  width: 60px;
+  background-color: gray;
+}
+.inner-box{
+  height: 40px;
+}
+h3 {
+  text-align: left;
+  margin-top: 10px;  /* Adjust the value as needed */
+  margin-left: 20px;
+}
